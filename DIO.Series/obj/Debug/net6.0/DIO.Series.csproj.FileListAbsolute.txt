@@ -1,0 +1,15 @@
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+E:\Projetos\Aulas\Bootcamps\Criando um APP simples de cadastro de séries em .NET\APP-Simples-de-Cadastro-em-Series\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
